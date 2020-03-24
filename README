@@ -1,0 +1,6 @@
+#step1
+python2 CLIPseq.py
+#step2
+sh callpeak.sh
+#step3
+sh callpeak_mock.sh
